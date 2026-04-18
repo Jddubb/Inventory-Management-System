@@ -3,4 +3,4 @@ public class Main {
         Inventory inventory = new Inventory(10); // You can change capacity here
         inventory.run(); // Start inventory system
     }
-}
+} 
